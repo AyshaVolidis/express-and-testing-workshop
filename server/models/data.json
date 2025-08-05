@@ -10,7 +10,9 @@
       "id": 2,
       "firstname": "Amelie",
       "surname": "Mystery",
-      "cohort": 11
+      "cohort": 11,
+      "superpower": "this variable afficionado",
+      "hobby": "baking french breads"
     },
     {
       "id": 3,
@@ -34,6 +36,36 @@
       "id": 6,
       "firstname": "Yahia",
       "surname": "Mystery",
+      "cohort": 11
+    },
+    {
+      "id": 7,
+      "firstname": "aysha",
+      "surname": "volidis",
+      "cohort": 11
+    },
+    {
+      "id": 8,
+      "firstname": "aysha",
+      "surname": "volidis",
+      "cohort": 11
+    },
+    {
+      "id": 9,
+      "firstname": "aysha",
+      "surname": "volidis",
+      "cohort": 11
+    },
+    {
+      "id": 10,
+      "firstname": "aysha",
+      "surname": "volidis",
+      "cohort": 11
+    },
+    {
+      "id": 11,
+      "firstname": "aysha",
+      "surname": "volidis",
       "cohort": 11
     }
   ],
