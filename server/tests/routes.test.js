@@ -66,7 +66,9 @@ describe("test server", () => {
         surname: "volidis",
         cohort: 11,
       })
+      .set('Accept', 'application/json')
       .expect("Content-Type", /json/)
+      .expect(201)
       .end((err, res) => {
         if (err) return done(err);
         expect(res.status).toBe(201);
